@@ -407,7 +407,7 @@ body { max-width: 1600px }
 	}
 }
 
-/* ==== EQUAL COLUMNS IN FOUR COLUMN GRID ======= */
+/* ==== EQUAL COLUMNS IN TWO COLUMN GRID ======= */
 
 /* Desktop */
 @media all and (min-width:768px) { 
